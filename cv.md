@@ -19,4 +19,4 @@ function multiply($a, $b)
 ## Now study in  RSSchool on JS/FE Pre-School 2022Q2
 # Languages
 * English - Intermediate
-* Russian - Native
+* Russian - Native 
