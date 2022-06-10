@@ -11,6 +11,8 @@
 * VSCode (in procces)
 * PowerShell (in procces)
 * JS (in procces)
+* HTML
+* CSS
 ## Code
 ```javascript
 function multiply($a, $b)
