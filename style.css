@@ -1,3 +1,11 @@
 h1 {
-    color: black;
+    font-family: 'Comic Sans MS'; 
+   } 
+
+p {
+    font-family: 'Comic Sans MS', Times, serif;
+    font-style: italic; 
+    }
+h2 { font-family: 'Comic Sans MS';
 }
+li {font-family: 'Comic Sans MS';}
